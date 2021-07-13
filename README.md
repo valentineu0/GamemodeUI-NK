@@ -6,6 +6,6 @@
 
 ---
 
-[`Download GamemodeUI v1.0.0 for Nukkit`]()<br />
+`Download GamemodeUI v1.0.0 for Nukkit`<br />
 
 ---
