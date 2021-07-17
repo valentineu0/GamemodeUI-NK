@@ -1,1 +1,13 @@
+name: GamemodeUI
+main: qrearded.GamemodeUI.main
+version: "1.0.0"
+api: ["1.0.0"]
 
+load: POSTWORLD
+author: qreardedsbck
+description: Change your game mode with modern UI.
+
+commands:
+  gmui:
+    description: Change your game mode.
+    usage: "/gmui"
